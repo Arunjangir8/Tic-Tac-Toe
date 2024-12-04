@@ -23,7 +23,7 @@ To run the game, you'll need Python 3.x installed on your system. You can downlo
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone [(https://github.com/Arunjangir8/Tic-Tac-Toe.git)]
 
 
 
