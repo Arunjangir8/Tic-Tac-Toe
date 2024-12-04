@@ -28,5 +28,10 @@ To run the game, you'll need Python 3.x installed on your system. You can downlo
 
 
 <img width="1509" alt="Screenshot 2024-12-04 at 12 26 01 PM" src="https://github.com/user-attachments/assets/0a369238-799f-4bca-9470-b7deef743c89">
+<br>
+<br>
 <img width="1509" alt="Screenshot 2024-12-04 at 12 26 15 PM" src="https://github.com/user-attachments/assets/21132059-a177-4943-afd8-f024220dfa0b">
+<br>
+<br>
+
 <img width="1512" alt="Screenshot 2024-12-04 at 12 26 24 PM" src="https://github.com/user-attachments/assets/d627a5f6-bf12-474a-8c9f-daea6fe3522d">
